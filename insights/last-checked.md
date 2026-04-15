@@ -1,6 +1,6 @@
 # 已追踪文章索引（截至2026年4月15日）
 
-此文件用于记录已分析过的文章，避免每日洞察重复覆盖。每日新增分析时更新此列表。
+此文件用于记录已分析过的文章和产品页面状态，避免每日洞察重复覆盖。每日新增分析时更新此列表。
 
 ## blogs.nvidia.com 已追踪
 
@@ -32,3 +32,22 @@
 - [x] Bringing AI Closer to Edge and On-Device with Gemma 4 (2026-04-02)
 - [x] Achieving Single-Digit Microsecond Latency for Capital Markets (2026-04-02)
 - [x] CUDA Tile Programming for BASIC (2026-04-01)
+
+## nvidia.cn/networking/ethernet-switching 产品基线（2026-04-15）
+
+当前产品线状态，后续对比此基线检测变更：
+
+### Spectrum-4 系列
+- SN5600：64端口 800GbE，51.2Tb/s 吞吐量，2U 机架式，支持 RoCE/Spectrum-X
+- 定位：AI 工厂 smart-leaf / spine / super-spine 交换机
+
+### Spectrum-X Photonics（预计 2026 下半年）
+- 128端口 800Gb/s 或 512端口 200Gb/s，100Tb/s 总带宽
+- 512端口 800Gb/s 或 2048端口 200Gb/s，400Tb/s 总带宽
+- 共封装光学（CPO）+ 硅光子引擎
+- 较传统方式：4x 更少激光器、3.5x 更高能效、10x 更高网络弹性、5x 更长无中断运行时间
+
+### 配套软件/SDK
+- Cumulus Linux / NetQ 5.1（Spectrum-X 参考架构 2.1 认证）
+- NVIDIA Ethernet Switch SDK / SAI
+- DOCA / BlueField DPU 集成
