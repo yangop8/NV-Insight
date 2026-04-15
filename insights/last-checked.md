@@ -17,6 +17,8 @@
 - [x] GeForce NOW April 2026 Games (2026-04-02)
 - [x] Jensen Huang at 3DEXPERIENCE World (2026-04-09)
 - [x] Roche Scales NVIDIA AI Factories for Drug Discovery (2026-03-16)
+- [x] NVIDIA & OpenAI 10GW AI Infrastructure Partnership (2026-04-14)
+- [x] The Future of AI Is Open and Proprietary — Nemotron Coalition (2026-04-10)
 
 ## developer.nvidia.com 已追踪
 
@@ -32,3 +34,4 @@
 - [x] Bringing AI Closer to Edge and On-Device with Gemma 4 (2026-04-02)
 - [x] Achieving Single-Digit Microsecond Latency for Capital Markets (2026-04-02)
 - [x] CUDA Tile Programming for BASIC (2026-04-01)
+- [x] Integrate Physical AI into Existing Apps with Omniverse Libraries (2026-04-08)
