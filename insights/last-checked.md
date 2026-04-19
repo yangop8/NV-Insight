@@ -1,4 +1,4 @@
-# 已追踪文章索引（截至2026年4月15日）
+# 已追踪文章索引（截至2026年4月19日）
 
 此文件用于记录已分析过的文章和产品页面状态，避免每日洞察重复覆盖。每日新增分析时更新此列表。
 
@@ -17,6 +17,8 @@
 - [x] GeForce NOW April 2026 Games (2026-04-02)
 - [x] Jensen Huang at 3DEXPERIENCE World (2026-04-09)
 - [x] Roche Scales NVIDIA AI Factories for Drug Discovery (2026-03-16)
+- [x] NVIDIA DGX SuperPOD Sets the Stage for Rubin-Based Systems (2026-04-15)
+- [x] GFN Thursday: PRAGMATA Joins GeForce NOW on Launch Day (2026-04-16)
 
 ## developer.nvidia.com 已追踪
 
@@ -32,8 +34,10 @@
 - [x] Bringing AI Closer to Edge and On-Device with Gemma 4 (2026-04-02)
 - [x] Achieving Single-Digit Microsecond Latency for Capital Markets (2026-04-02)
 - [x] CUDA Tile Programming for BASIC (2026-04-01)
+- [x] NVIDIA Ising Introduces AI-Powered Workflows to Build Fault-Tolerant Quantum Systems (2026-04-14)
+- [x] Building Custom Atomistic Simulation Workflows with NVIDIA ALCHEMI Toolkit (2026-04-14)
 
-## nvidia.cn/networking/ethernet-switching 产品基线（2026-04-15）
+## nvidia.cn/networking/ethernet-switching 产品基线（2026-04-19）
 
 当前产品线状态，后续对比此基线检测变更：
 
