@@ -1,4 +1,4 @@
-# 已追踪文章索引（截至2026年4月15日）
+# 已追踪文章索引（截至2026年4月21日）
 
 此文件用于记录已分析过的文章和产品页面状态，避免每日洞察重复覆盖。每日新增分析时更新此列表。
 
@@ -17,6 +17,9 @@
 - [x] GeForce NOW April 2026 Games (2026-04-02)
 - [x] Jensen Huang at 3DEXPERIENCE World (2026-04-09)
 - [x] Roche Scales NVIDIA AI Factories for Drug Discovery (2026-03-16)
+- [x] NVIDIA and Partners Showcase AI-Driven Manufacturing at Hannover Messe 2026 (2026-04-20)
+- [x] The Future of AI Is Open and Proprietary (2026-03-25)
+- [x] Accelerating Science: A Blueprint for a Renewed National Quantum Initiative (2026-04-15)
 
 ## developer.nvidia.com 已追踪
 
@@ -32,8 +35,11 @@
 - [x] Bringing AI Closer to Edge and On-Device with Gemma 4 (2026-04-02)
 - [x] Achieving Single-Digit Microsecond Latency for Capital Markets (2026-04-02)
 - [x] CUDA Tile Programming for BASIC (2026-04-01)
+- [x] Integrate Physical AI Capabilities into Existing Apps with NVIDIA Omniverse Libraries (2026-04-08)
+- [x] Build a More Secure, Always-On Local AI Agent with OpenClaw and NVIDIA NemoClaw (2026-04-17)
+- [x] NVIDIA IGX Thor Powers Industrial, Medical, and Robotics Edge AI Applications (2026-04-16)
 
-## nvidia.cn/networking/ethernet-switching 产品基线（2026-04-15）
+## nvidia.cn/networking/ethernet-switching 产品基线（2026-04-21）
 
 当前产品线状态，后续对比此基线检测变更：
 
