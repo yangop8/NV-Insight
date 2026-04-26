@@ -1,4 +1,4 @@
-# 已追踪文章索引（截至2026年4月15日）
+# 已追踪文章索引（截至2026年4月26日）
 
 此文件用于记录已分析过的文章和产品页面状态，避免每日洞察重复覆盖。每日新增分析时更新此列表。
 
@@ -17,6 +17,13 @@
 - [x] GeForce NOW April 2026 Games (2026-04-02)
 - [x] Jensen Huang at 3DEXPERIENCE World (2026-04-09)
 - [x] Roche Scales NVIDIA AI Factories for Drug Discovery (2026-03-16)
+- [x] OpenAI GPT-5.5 Powers Codex on NVIDIA Infrastructure (2026-04-23)
+- [x] Adobe Agents Unlock Breakthrough Creative Intelligence With NVIDIA and WPP (2026-04-20)
+- [x] From Rainforests to Recycling Plants: 5 Ways NVIDIA AI Is Protecting the Planet (2026-04-22)
+- [x] NVIDIA and Partners Showcase AI-Driven Manufacturing at Hannover Messe 2026 (2026-04-21)
+- [x] Deutsche Telekom and NVIDIA Launch Industrial AI Cloud (2026-04-21)
+- [x] Into the Omniverse: How Digital Twins Are Scaling Industrial AI (2026-04-26)
+- [x] Industrial Ecosystem Adopts Mega NVIDIA Omniverse Blueprint (2026-04-21)
 
 ## developer.nvidia.com 已追踪
 
@@ -32,8 +39,11 @@
 - [x] Bringing AI Closer to Edge and On-Device with Gemma 4 (2026-04-02)
 - [x] Achieving Single-Digit Microsecond Latency for Capital Markets (2026-04-02)
 - [x] CUDA Tile Programming for BASIC (2026-04-01)
+- [x] Integrate Physical AI Capabilities into Existing Apps with NVIDIA Omniverse Libraries (2026-04-08)
+- [x] Accelerate Clean, Modular, Nuclear Reactor Design with AI Physics (2026-04-17)
+- [x] Run High-Throughput RL Training with End-to-End FP8 Precision (2026-04-20)
 
-## nvidia.cn/networking/ethernet-switching 产品基线（2026-04-15）
+## nvidia.cn/networking/ethernet-switching 产品基线（2026-04-26，无变化）
 
 当前产品线状态，后续对比此基线检测变更：
 
