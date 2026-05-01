@@ -1,4 +1,4 @@
-# 已追踪文章索引（截至2026年4月15日）
+# 已追踪文章索引（截至2026年5月1日）
 
 此文件用于记录已分析过的文章和产品页面状态，避免每日洞察重复覆盖。每日新增分析时更新此列表。
 
@@ -17,6 +17,10 @@
 - [x] GeForce NOW April 2026 Games (2026-04-02)
 - [x] Jensen Huang at 3DEXPERIENCE World (2026-04-09)
 - [x] Roche Scales NVIDIA AI Factories for Drug Discovery (2026-03-16)
+- [x] Nemotron 3 Nano Omni Multimodal AI Agents (2026-04-28)
+- [x] OpenAI GPT-5.5 Powers Codex on NVIDIA Infrastructure (2026-04-23)
+- [x] GeForce NOW in-app Labels Xbox Game Pass Ubisoft+ (2026-04-23)
+- [x] GeForce NOW May 2026 Games (2026-05-01)
 
 ## developer.nvidia.com 已追踪
 
@@ -32,8 +36,11 @@
 - [x] Bringing AI Closer to Edge and On-Device with Gemma 4 (2026-04-02)
 - [x] Achieving Single-Digit Microsecond Latency for Capital Markets (2026-04-02)
 - [x] CUDA Tile Programming for BASIC (2026-04-01)
+- [x] Nemotron 3 Nano Omni Powers Multimodal Agent Reasoning (2026-04-28)
+- [x] Build Secure Always-On Local AI Agent with NemoClaw and OpenClaw (2026-04-17)
+- [x] Integrate Physical AI Capabilities with NVIDIA Omniverse Libraries (2026-04-08)
 
-## nvidia.cn/networking/ethernet-switching 产品基线（2026-04-15）
+## nvidia.cn/networking/ethernet-switching 产品基线（2026-05-01 检查，页面返回 403 无法访问，沿用原基线）
 
 当前产品线状态，后续对比此基线检测变更：
 
