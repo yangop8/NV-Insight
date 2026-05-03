@@ -1,4 +1,4 @@
-# 已追踪文章索引（截至2026年4月15日）
+# 已追踪文章索引（截至2026年5月3日）
 
 此文件用于记录已分析过的文章和产品页面状态，避免每日洞察重复覆盖。每日新增分析时更新此列表。
 
@@ -17,6 +17,10 @@
 - [x] GeForce NOW April 2026 Games (2026-04-02)
 - [x] Jensen Huang at 3DEXPERIENCE World (2026-04-09)
 - [x] Roche Scales NVIDIA AI Factories for Drug Discovery (2026-03-16)
+- [x] NVIDIA Launches Nemotron 3 Nano Omni Model (2026-04-28)
+- [x] OpenAI's New GPT-5.5 Powers Codex on NVIDIA Infrastructure (2026-04-23)
+- [x] GeForce NOW May 2026 Games List (2026-05-01)
+- [x] GeForce NOW Levels Up Game Discovery With In-App Labels (2026-04-24)
 
 ## developer.nvidia.com 已追踪
 
@@ -32,8 +36,16 @@
 - [x] Bringing AI Closer to Edge and On-Device with Gemma 4 (2026-04-02)
 - [x] Achieving Single-Digit Microsecond Latency for Capital Markets (2026-04-02)
 - [x] CUDA Tile Programming for BASIC (2026-04-01)
+- [x] NVIDIA Nemotron 3 Nano Omni Powers Multimodal Agent Reasoning (2026-04-28)
+- [x] Build Next-Gen Physical AI with Edge-First LLMs (TensorRT Edge-LLM) (2026-04-22)
+- [x] How NVIDIA Dynamo 1.0 Powers Multi-Node Inference at Production Scale (2026-04-18)
+- [x] Delivering Flexible Performance for Future-Ready Data Centers with NVIDIA MGX (2026-04-20)
+- [x] Winning a Kaggle Competition with Generative AI-Assisted Coding (2026-04-25)
+- [x] Mitigating Indirect AGENTS.md Injection Attacks in Agentic Environments (2026-04-17)
 
-## nvidia.cn/networking/ethernet-switching 产品基线（2026-04-15）
+## nvidia.cn/networking/ethernet-switching 产品基线（2026-05-03）
+
+> 2026-05-03 检查：页面返回 403，通过 WebSearch 交叉验证，产品线无新增型号，基线不变。
 
 当前产品线状态，后续对比此基线检测变更：
 
