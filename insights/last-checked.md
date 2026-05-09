@@ -1,4 +1,4 @@
-# 已追踪文章索引（截至2026年4月15日）
+# 已追踪文章索引（截至2026年5月9日）
 
 此文件用于记录已分析过的文章和产品页面状态，避免每日洞察重复覆盖。每日新增分析时更新此列表。
 
@@ -17,6 +17,10 @@
 - [x] GeForce NOW April 2026 Games (2026-04-02)
 - [x] Jensen Huang at 3DEXPERIENCE World (2026-04-09)
 - [x] Roche Scales NVIDIA AI Factories for Drug Discovery (2026-03-16)
+- [x] GeForce NOW May 2026 Games (2026-05-01)
+- [x] The Future of AI Is Open and Proprietary (2026-05-07)
+- [x] Powering the Next American Century: US Energy Secretary Chris Wright and Ian Buck (2026-05-07)
+- [x] Spectrum-X Sets the Standard for Gigascale AI, Now With MRC (2026-05-06)
 
 ## developer.nvidia.com 已追踪
 
@@ -32,8 +36,11 @@
 - [x] Bringing AI Closer to Edge and On-Device with Gemma 4 (2026-04-02)
 - [x] Achieving Single-Digit Microsecond Latency for Capital Markets (2026-04-02)
 - [x] CUDA Tile Programming for BASIC (2026-04-01)
+- [x] Model Quantization: Post-Training Quantization Using NVIDIA Model Optimizer (2026-05-07)
+- [x] Real-Time Performance Monitoring and Faster Debugging with NCCL Inspector and Prometheus (2026-05-07)
+- [x] How to Build In-Vehicle AI Agents with NVIDIA: From Cloud to Car (2026-05-05)
 
-## nvidia.cn/networking/ethernet-switching 产品基线（2026-04-15）
+## nvidia.cn/networking/ethernet-switching 产品基线（2026-05-09）
 
 当前产品线状态，后续对比此基线检测变更：
 
@@ -46,6 +53,17 @@
 - 512端口 800Gb/s 或 2048端口 200Gb/s，400Tb/s 总带宽
 - 共封装光学（CPO）+ 硅光子引擎
 - 较传统方式：4x 更少激光器、3.5x 更高能效、10x 更高网络弹性、5x 更长无中断运行时间
+
+### Spectrum-XGS（2026年5月新增）
+- Scale-across 以太网平台，连接分布式数据中心为统一 Giga-Scale AI 超级工厂
+- 高级拥塞控制、精确时延管理、端到端遥测
+- 通信速度提升近 2x
+- 首批客户：CoreWeave
+
+### Spectrum-X MRC 协议（2026年5月新增）
+- Multipath Reliable Connection：单 RDMA 连接多路径负载均衡
+- 开放规范 v1.0，通过 OCP 发布（NVIDIA/AMD/Broadcom/Intel/Microsoft/OpenAI 联合）
+- 已在 OpenAI 最大规模超算生产部署
 
 ### 配套软件/SDK
 - Cumulus Linux / NetQ 5.1（Spectrum-X 参考架构 2.1 认证）
