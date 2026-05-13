@@ -1,4 +1,4 @@
-# 已追踪文章索引（截至2026年4月15日）
+# 已追踪文章索引（截至2026年5月13日）
 
 此文件用于记录已分析过的文章和产品页面状态，避免每日洞察重复覆盖。每日新增分析时更新此列表。
 
@@ -17,6 +17,13 @@
 - [x] GeForce NOW April 2026 Games (2026-04-02)
 - [x] Jensen Huang at 3DEXPERIENCE World (2026-04-09)
 - [x] Roche Scales NVIDIA AI Factories for Drug Discovery (2026-03-16)
+- [x] Spectrum-X Ethernet MRC for Gigascale AI (2026-05-05)
+- [x] NVIDIA and ServiceNow Partner on Autonomous AI Agents (2026-05-06)
+- [x] GeForce NOW May 2026 Games (2026-05-07)
+- [x] The Future of AI Is Open and Proprietary (2026-05-07)
+- [x] GFN Thursday: PRAGMATA and Samson in April (2026-04-28)
+- [x] Gaijin SSO on GeForce NOW (2026-05)
+- [x] Energy Secretary Chris Wright and Ian Buck (2026-05)
 
 ## developer.nvidia.com 已追踪
 
@@ -32,8 +39,18 @@
 - [x] Bringing AI Closer to Edge and On-Device with Gemma 4 (2026-04-02)
 - [x] Achieving Single-Digit Microsecond Latency for Capital Markets (2026-04-02)
 - [x] CUDA Tile Programming for BASIC (2026-04-01)
+- [x] Building for the Rising Complexity of Agentic Systems with Extreme Co-Design (2026-05-05)
+- [x] GB200 NVL72 Slurm Block Scheduling (2026-05-07)
+- [x] Model Quantization PTQ Using NVIDIA Model Optimizer (2026-05-07)
+- [x] NCCL Inspector and Prometheus Real-Time Monitoring (2026-05-05)
+- [x] NVIDIA Dynamo 1.0 Powers Multi-Node Inference at Production Scale (2026-05)
+- [x] Build Next-Gen Physical AI with Edge-First LLMs (2026-05)
+- [x] TensorRT Edge-LLM for Automotive and Robotics (2026-05)
+- [x] Mitigating Indirect AGENTS.md Injection Attacks (2026-04-20)
+- [x] Build Secure Local AI Agent with OpenClaw and NemoClaw (2026-04-17)
+- [x] DeepStream Coding Agents for Vision AI Pipelines (2026-04-16)
 
-## nvidia.cn/networking/ethernet-switching 产品基线（2026-04-15）
+## nvidia.cn/networking/ethernet-switching 产品基线（2026-05-13 复查）
 
 当前产品线状态，后续对比此基线检测变更：
 
