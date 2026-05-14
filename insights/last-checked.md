@@ -1,4 +1,4 @@
-# 已追踪文章索引（截至2026年4月17日）
+# 已追踪文章索引（截至2026年5月14日）
 
 此文件用于记录已分析过的文章和产品页面状态，避免每日洞察重复覆盖。每日新增分析时更新此列表。
 
@@ -17,8 +17,11 @@
 - [x] GeForce NOW April 2026 Games (2026-04-02)
 - [x] Jensen Huang at 3DEXPERIENCE World (2026-04-09)
 - [x] Roche Scales NVIDIA AI Factories for Drug Discovery (2026-03-16)
-- [x] The Future of AI Is Open and Proprietary / Nemotron Coalition (2026-04-15)
+- [x] The Future of AI Is Open and Proprietary / Nemotron Coalition (2026-03-25)
 - [x] GFN Thursday: PRAGMATA on GeForce NOW (2026-04-16)
+- [x] NVIDIA and Partners Showcase AI-Driven Manufacturing at Hannover Messe 2026 (2026-04-20)
+- [x] Nemotron 3 Nano Omni — Unifying Vision, Audio and Language for AI Agents (2026-04-28)
+- [x] GeForce NOW May 2026 Games (2026-05-01)
 
 ## developer.nvidia.com 已追踪
 
@@ -35,8 +38,17 @@
 - [x] Achieving Single-Digit Microsecond Latency for Capital Markets (2026-04-02)
 - [x] CUDA Tile Programming for BASIC (2026-04-01)
 - [x] Integrate Physical AI Capabilities into Existing Apps with NVIDIA Omniverse Libraries (2026-04-08)
+- [x] Accelerate Clean, Modular, Nuclear Reactor Design with AI Physics (2026-04-17)
+- [x] Full-Stack Optimizations for Agentic Inference with NVIDIA Dynamo (2026-04-17)
+- [x] Build a More Secure, Always-On Local AI Agent with OpenClaw and NVIDIA NemoClaw (2026-04-17)
+- [x] Mitigating Indirect AGENTS.md Injection Attacks in Agentic Environments (2026-04-20)
+- [x] Building for the Rising Complexity of Agentic Systems with Extreme Co-Design (2026-05-05)
+- [x] Model Quantization: Post-Training Quantization Using NVIDIA Model Optimizer (2026-05-07)
+- [x] Introducing NVIDIA Fleet Intelligence for Real-Time GPU Fleet Visibility and Optimization (2026-05-11)
 
-## nvidia.cn/networking/ethernet-switching 产品基线（2026-04-15）
+## nvidia.cn/networking/ethernet-switching 产品基线（2026-05-14）
+
+> 2026-05-14 检查：页面返回 403，通过 WebSearch 间接确认产品线无新增型号变更，维持原基线。
 
 当前产品线状态，后续对比此基线检测变更：
 
