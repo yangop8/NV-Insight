@@ -1,4 +1,4 @@
-# 已追踪文章索引（截至2026年4月15日）
+# 已追踪文章索引（截至2026年5月16日）
 
 此文件用于记录已分析过的文章和产品页面状态，避免每日洞察重复覆盖。每日新增分析时更新此列表。
 
@@ -17,6 +17,12 @@
 - [x] GeForce NOW April 2026 Games (2026-04-02)
 - [x] Jensen Huang at 3DEXPERIENCE World (2026-04-09)
 - [x] Roche Scales NVIDIA AI Factories for Drug Discovery (2026-03-16)
+- [x] Nemotron 3 Nano Omni Multimodal AI Agents (2026-05-13)
+- [x] OpenAI GPT-5.5 Powers Codex on NVIDIA Infrastructure (2026-05-13)
+- [x] The Future of AI Is Open and Proprietary (2026-05-13)
+- [x] Hermes Unlocks Self-Improving AI Agents on RTX PCs and DGX Spark (2026-05-13)
+- [x] GeForce NOW May 2026 Games (2026-05-01)
+- [x] Gaijin Single Sign-On Now Available on GeForce NOW (2026-05-05)
 
 ## developer.nvidia.com 已追踪
 
@@ -32,8 +38,14 @@
 - [x] Bringing AI Closer to Edge and On-Device with Gemma 4 (2026-04-02)
 - [x] Achieving Single-Digit Microsecond Latency for Capital Markets (2026-04-02)
 - [x] CUDA Tile Programming for BASIC (2026-04-01)
+- [x] Nemotron 3 Nano Omni Powers Multimodal Agent Reasoning (2026-05-13)
+- [x] Model Quantization: PTQ Using NVIDIA Model Optimizer (2026-05-07)
+- [x] Vera Rubin Platform Solving Agentic AI Scale-Up Problem (2026-05-14)
+- [x] Building for Rising Complexity of Agentic Systems with Extreme Co-Design (2026-05-05)
+- [x] Automating GPU Kernel Translation with AI Agents: cuTile Python to cuTile.jl (2026-04-30)
+- [x] Optimize Supply Chain Decision Systems Using NVIDIA cuOpt Agent Skills (2026-05-04)
 
-## nvidia.cn/networking/ethernet-switching 产品基线（2026-04-15）
+## nvidia.cn/networking/ethernet-switching 产品基线（2026-05-16）
 
 当前产品线状态，后续对比此基线检测变更：
 
@@ -46,6 +58,13 @@
 - 512端口 800Gb/s 或 2048端口 200Gb/s，400Tb/s 总带宽
 - 共封装光学（CPO）+ 硅光子引擎
 - 较传统方式：4x 更少激光器、3.5x 更高能效、10x 更高网络弹性、5x 更长无中断运行时间
+
+### Spectrum-XGS（新增）
+- 跨数据中心互联技术，将分布式数据中心组建为统一Giga-Scale AI超级工厂
+- 拓扑感知拥塞控制算法 + 精确延迟管理 + 端到端遥测
+- 跨数据中心NCCL性能提升1.9倍
+- CoreWeave为首批部署客户
+- 已作为Spectrum-X平台组件正式发布
 
 ### 配套软件/SDK
 - Cumulus Linux / NetQ 5.1（Spectrum-X 参考架构 2.1 认证）
