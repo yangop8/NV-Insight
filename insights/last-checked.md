@@ -1,4 +1,4 @@
-# 已追踪文章索引（截至2026年4月15日）
+# 已追踪文章索引（截至2026年5月17日）
 
 此文件用于记录已分析过的文章和产品页面状态，避免每日洞察重复覆盖。每日新增分析时更新此列表。
 
@@ -17,6 +17,18 @@
 - [x] GeForce NOW April 2026 Games (2026-04-02)
 - [x] Jensen Huang at 3DEXPERIENCE World (2026-04-09)
 - [x] Roche Scales NVIDIA AI Factories for Drug Discovery (2026-03-16)
+- [x] GeForce NOW May 2026 Games (2026-05-01)
+- [x] The Future of AI Is Open and Proprietary (2026-05-05)
+- [x] NVIDIA Spectrum-X Ethernet MRC (2026-05-06)
+- [x] Cisco and NVIDIA Advance Security for Enterprise AI Factories (2026-05-07)
+- [x] Powering the Next American Century: Energy Secretary and NVIDIA (2026-05-07)
+- [x] NVIDIA, Energy Leaders Accelerating Power-Flexible AI Factories (2026-05-07)
+- [x] NVIDIA, Telecom Leaders Build AI Grids to Optimize Inference (2026-05)
+- [x] NVIDIA Unveils New Open Models, Data and Tools to Advance AI (2026-05-13)
+- [x] NVIDIA and Google Cloud Collaborate to Advance Agentic and Physical AI (2026-05-13)
+- [x] HPE and NVIDIA Debut AI Factory Stack (2026-05-13)
+- [x] NVIDIA DGX SuperPOD Sets the Stage for Rubin-Based Systems (2026-05-13)
+- [x] NVIDIA Research Breakthroughs Put Advanced Robots in Motion / ICRA (2026-05)
 
 ## developer.nvidia.com 已追踪
 
@@ -32,8 +44,14 @@
 - [x] Bringing AI Closer to Edge and On-Device with Gemma 4 (2026-04-02)
 - [x] Achieving Single-Digit Microsecond Latency for Capital Markets (2026-04-02)
 - [x] CUDA Tile Programming for BASIC (2026-04-01)
+- [x] Optimize Supply Chain Decision Systems Using NVIDIA cuOpt Agent Skills (2026-04-30)
+- [x] Speed Up Unreal Engine NNE Inference with NVIDIA TensorRT for RTX Runtime (2026-04-30)
+- [x] Building for the Rising Complexity of Agentic Systems with Extreme Co-Design (2026-05-04)
+- [x] How to Build In-Vehicle AI Agents with NVIDIA: From Cloud to Car (2026-05-05)
+- [x] Model Quantization: Post-Training Quantization Using NVIDIA Model Optimizer (2026-05-07)
+- [x] Building the AI Grid with NVIDIA: Orchestrating Intelligence Everywhere (2026-05)
 
-## nvidia.cn/networking/ethernet-switching 产品基线（2026-04-15）
+## nvidia.cn/networking/ethernet-switching 产品基线（2026-05-17）
 
 当前产品线状态，后续对比此基线检测变更：
 
@@ -47,7 +65,14 @@
 - 共封装光学（CPO）+ 硅光子引擎
 - 较传统方式：4x 更少激光器、3.5x 更高能效、10x 更高网络弹性、5x 更长无中断运行时间
 
+### Spectrum-6 系列（2026 新增）
+- SN6810：128端口 800GbE，102.4Tb/s 吞吐量，CPO 硅光子集成（32 个 1.6Tb/s 光引擎，Micro Ring Modulator）
+- SN6800：512端口 800GbE，409.6Tb/s 吞吐量
+- 能效约为传统可插拔光模块方案的 5 倍
+- Cisco N9100 交换机搭载 Spectrum-6 芯片供货
+
 ### 配套软件/SDK
 - Cumulus Linux / NetQ 5.1（Spectrum-X 参考架构 2.1 认证）
 - NVIDIA Ethernet Switch SDK / SAI
 - DOCA / BlueField DPU 集成
+- MRC（Multipath Reliable Connection）协议：开放 OCP 规范，多路径 RDMA 传输，已部署于 OpenAI/Microsoft/Oracle
