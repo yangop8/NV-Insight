@@ -1,4 +1,4 @@
-# 已追踪文章索引（截至2026年4月15日）
+# 已追踪文章索引（截至2026年5月18日）
 
 此文件用于记录已分析过的文章和产品页面状态，避免每日洞察重复覆盖。每日新增分析时更新此列表。
 
@@ -17,6 +17,11 @@
 - [x] GeForce NOW April 2026 Games (2026-04-02)
 - [x] Jensen Huang at 3DEXPERIENCE World (2026-04-09)
 - [x] Roche Scales NVIDIA AI Factories for Drug Discovery (2026-03-16)
+- [x] The Future of AI Is Open and Proprietary — Nemotron Coalition (2026-04-15)
+- [x] GeForce NOW May 2026 Games (2026-04-30)
+- [x] Spectrum-X MRC for Gigascale AI (2026-05-07)
+- [x] Jensen Huang CMU Commencement Address (2026-05-10)
+- [x] NVIDIA and SAP Bring Trust to Specialized Agents — OpenShell (2026-05-12)
 
 ## developer.nvidia.com 已追踪
 
@@ -32,8 +37,14 @@
 - [x] Bringing AI Closer to Edge and On-Device with Gemma 4 (2026-04-02)
 - [x] Achieving Single-Digit Microsecond Latency for Capital Markets (2026-04-02)
 - [x] CUDA Tile Programming for BASIC (2026-04-01)
+- [x] How NVIDIA Dynamo 1.0 Powers Multi-Node Inference at Production Scale (2026-04-17)
+- [x] New Software and Model Optimizations Supercharge DGX Spark (2026-04-30)
+- [x] Model Quantization: PTQ Using NVIDIA Model Optimizer (2026-05-07)
+- [x] Introducing NVIDIA Fleet Intelligence for GPU Fleet Visibility (2026-05-11)
+- [x] Streaming Tokens and Tools: Multi-Turn Agentic Harness in Dynamo (2026-05-11)
+- [x] Full-Stack Optimizations for Agentic Inference with NVIDIA Dynamo (2026-05-14)
 
-## nvidia.cn/networking/ethernet-switching 产品基线（2026-04-15）
+## nvidia.cn/networking/ethernet-switching 产品基线（2026-05-18 检查，无变化）
 
 当前产品线状态，后续对比此基线检测变更：
 
