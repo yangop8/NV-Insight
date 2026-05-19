@@ -1,4 +1,4 @@
-# 已追踪文章索引（截至2026年4月15日）
+# 已追踪文章索引（截至2026年5月19日）
 
 此文件用于记录已分析过的文章和产品页面状态，避免每日洞察重复覆盖。每日新增分析时更新此列表。
 
@@ -17,6 +17,11 @@
 - [x] GeForce NOW April 2026 Games (2026-04-02)
 - [x] Jensen Huang at 3DEXPERIENCE World (2026-04-09)
 - [x] Roche Scales NVIDIA AI Factories for Drug Discovery (2026-03-16)
+- [x] NVIDIA Launches Nemotron 3 Nano Omni Model (2026-04-29)
+- [x] GeForce NOW May 2026 Games (2026-04-30)
+- [x] The Future of AI Is Open and Proprietary (2026-05-07)
+- [x] GeForce NOW Gaijin SSO (2026-05-07)
+- [x] Hermes Unlocks Self-Improving AI Agents, Powered by RTX PCs and DGX Spark (2026-05-13)
 
 ## developer.nvidia.com 已追踪
 
@@ -32,8 +37,14 @@
 - [x] Bringing AI Closer to Edge and On-Device with Gemma 4 (2026-04-02)
 - [x] Achieving Single-Digit Microsecond Latency for Capital Markets (2026-04-02)
 - [x] CUDA Tile Programming for BASIC (2026-04-01)
+- [x] NVIDIA Nemotron 3 Nano Omni Powers Multimodal Agent Reasoning (2026-04-29)
+- [x] Optimize Supply Chain Decision Systems Using NVIDIA cuOpt Agent Skills (2026-05-04)
+- [x] Building for the Rising Complexity of Agentic Systems with Extreme Co-Design (2026-05-05)
+- [x] How to Build In-Vehicle AI Agents with NVIDIA: From Cloud to Car (2026-05-05)
+- [x] Model Quantization: Post-Training Quantization Using NVIDIA Model Optimizer (2026-05-07)
+- [x] How the NVIDIA Vera Rubin Platform is Solving Agentic AI's Scale-Up Problem (2026-05-14)
 
-## nvidia.cn/networking/ethernet-switching 产品基线（2026-04-15）
+## nvidia.cn/networking/ethernet-switching 产品基线（2026-05-19）
 
 当前产品线状态，后续对比此基线检测变更：
 
@@ -41,11 +52,16 @@
 - SN5600：64端口 800GbE，51.2Tb/s 吞吐量，2U 机架式，支持 RoCE/Spectrum-X
 - 定位：AI 工厂 smart-leaf / spine / super-spine 交换机
 
-### Spectrum-X Photonics（预计 2026 下半年）
-- 128端口 800Gb/s 或 512端口 200Gb/s，100Tb/s 总带宽
-- 512端口 800Gb/s 或 2048端口 200Gb/s，400Tb/s 总带宽
+### Spectrum-6 系列（原 Spectrum-X Photonics，预计 2026 下半年）
+- SN6810：128端口 800G，102.4Tb/s 吞吐量，2U 机架式
+- SN6800：512端口 800G，409.6Tb/s 吞吐量，超大规模 AI 网络
 - 共封装光学（CPO）+ 硅光子引擎
-- 较传统方式：4x 更少激光器、3.5x 更高能效、10x 更高网络弹性、5x 更长无中断运行时间
+- 较传统方式：5x 更高网络能效、10x 更高网络弹性、5x 更长无中断运行时间
+
+### Spectrum-XGS（新增）
+- 跨数据中心互联技术，将分布式数据中心组成统一 AI 超级工厂
+- 拓扑感知拥塞控制、精确延迟管理、端到端遥测
+- 跨数据中心 NCCL 性能提升 1.9 倍
 
 ### 配套软件/SDK
 - Cumulus Linux / NetQ 5.1（Spectrum-X 参考架构 2.1 认证）
