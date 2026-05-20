@@ -1,4 +1,4 @@
-# 已追踪文章索引（截至2026年4月15日）
+# 已追踪文章索引（截至2026年5月20日）
 
 此文件用于记录已分析过的文章和产品页面状态，避免每日洞察重复覆盖。每日新增分析时更新此列表。
 
@@ -17,6 +17,11 @@
 - [x] GeForce NOW April 2026 Games (2026-04-02)
 - [x] Jensen Huang at 3DEXPERIENCE World (2026-04-09)
 - [x] Roche Scales NVIDIA AI Factories for Drug Discovery (2026-03-16)
+- [x] NVIDIA DGX SuperPOD Sets the Stage for Rubin-Based Systems (2026-05)
+- [x] Hermes Unlocks Self-Improving AI Agents, Powered by NVIDIA RTX PCs and DGX Spark (2026-05)
+- [x] Korea Joins AI Industrial Revolution at APEC CEO Summit (2026-05)
+- [x] GeForce NOW May 2026 Games (2026-05)
+- [x] GeForce NOW: Gaijin Single Sign-On (2026-05-07)
 
 ## developer.nvidia.com 已追踪
 
@@ -32,8 +37,14 @@
 - [x] Bringing AI Closer to Edge and On-Device with Gemma 4 (2026-04-02)
 - [x] Achieving Single-Digit Microsecond Latency for Capital Markets (2026-04-02)
 - [x] CUDA Tile Programming for BASIC (2026-04-01)
+- [x] Integrate Physical AI Capabilities into Existing Apps with NVIDIA Omniverse Libraries (2026-04-08)
+- [x] Building for the Rising Complexity of Agentic Systems with Extreme Co-Design (2026-05-04)
+- [x] Optimize Supply Chain Decision Systems Using NVIDIA cuOpt Agent Skills (2026-05-04)
+- [x] How to Build In-Vehicle AI Agents with NVIDIA: From Cloud to Car (2026-05-05)
+- [x] Achieving Peak System and Workload Efficiency on NVIDIA GB200 NVL72 with Slurm Block Scheduling (2026-05-07)
+- [x] Model Quantization: Post-Training Quantization Using NVIDIA Model Optimizer (2026-05-07)
 
-## nvidia.cn/networking/ethernet-switching 产品基线（2026-04-15）
+## nvidia.cn/networking/ethernet-switching 产品基线（2026-05-20）
 
 当前产品线状态，后续对比此基线检测变更：
 
