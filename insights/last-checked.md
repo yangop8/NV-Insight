@@ -1,4 +1,4 @@
-# 已追踪文章索引（截至2026年5月14日）
+# 已追踪文章索引（截至2026年5月28日）
 
 此文件用于记录已分析过的文章和产品页面状态，避免每日洞察重复覆盖。每日新增分析时更新此列表。
 
@@ -22,6 +22,32 @@
 - [x] NVIDIA and Partners Showcase AI-Driven Manufacturing at Hannover Messe 2026 (2026-04-20)
 - [x] Nemotron 3 Nano Omni — Unifying Vision, Audio and Language for AI Agents (2026-04-28)
 - [x] GeForce NOW May 2026 Games (2026-05-01)
+- [x] Spectrum-X — AI-Native Ethernet Sets the Standard for Gigascale AI, Now With MRC (2026-05-15)
+- [x] OpenAI's New GPT-5.5 Powers Codex on NVIDIA Infrastructure (2026-05-15)
+- [x] Hermes Unlocks Self-Improving AI Agents on NVIDIA RTX PCs and DGX Spark (2026-05-15)
+- [x] Adobe Agents Unlock Creative Intelligence With NVIDIA and WPP (2026-05-15)
+- [x] Gaijin Single Sign-On Now Available on GeForce NOW (2026-05-15)
+- [x] NVIDIA Introduces Spectrum-XGS Ethernet for Giga-Scale AI Super-Factories (2026-05-16)
+- [x] Cisco and NVIDIA Advance Security for Enterprise AI Factories (2026-05-17)
+- [x] NVIDIA DGX SuperPOD Sets the Stage for Rubin-Based Systems (2026-05-17)
+- [x] NVIDIA, Energy Leaders Accelerating Power-Flexible AI Factories to Fortify the Grid (2026-05-17)
+- [x] Powering the Next American Century: US Energy Secretary and NVIDIA (2026-05-17)
+- [x] NVIDIA and Google Cloud Collaborate to Advance Agentic and Physical AI (2026-05-17)
+- [x] HPE and NVIDIA Debut AI Factory Stack to Power Next Industrial Shift (2026-05-17)
+- [x] NVIDIA Research Breakthroughs Put Advanced Robots in Motion (ICRA) (2026-05-17)
+- [x] NVIDIA Unveils New Open Models, Data and Tools to Advance AI Across Every Industry (2026-05-17)
+- [x] NVIDIA, Telecom Leaders Build AI Grids to Optimize Inference on Distributed Networks (2026-05-17)
+- [x] Jensen Huang Carnegie Mellon Commencement Address (2026-05-18)
+- [x] NVIDIA and SAP Bring Trust to Specialized Agents (2026-05-18)
+- [x] Korea Joins AI Industrial Revolution — APEC CEO Summit (2026-05-20)
+- [x] Vera Arrives: NVIDIA's First CPU Built for Agents Lands at Top AI Labs (2026-05-21)
+- [x] Subnautica 2 Early Access on GeForce NOW (2026-05-21)
+- [x] NVIDIA and Google Cloud Empower the Next Wave of AI Builders (2026-05-22)
+- [x] GFN Thursday: 5 New Games on GeForce NOW (GDC) (2026-05-23)
+- [x] NVIDIA GTC Taipei at COMPUTEX 2026: Live Updates (2026-05-24)
+- [x] NVIDIA Partners With AI Infrastructure Ecosystem — Reference Design for Giga-Scale AI Factories (2026-05-25)
+- [x] NVIDIA, Ineffable Intelligence Team Up for Reinforcement Learning Infrastructure (2026-05-25)
+- [x] NVIDIA and Oracle to Accelerate Enterprise AI and Data Processing (2026-05-25)
 
 ## developer.nvidia.com 已追踪
 
@@ -45,9 +71,36 @@
 - [x] Building for the Rising Complexity of Agentic Systems with Extreme Co-Design (2026-05-05)
 - [x] Model Quantization: Post-Training Quantization Using NVIDIA Model Optimizer (2026-05-07)
 - [x] Introducing NVIDIA Fleet Intelligence for Real-Time GPU Fleet Visibility and Optimization (2026-05-11)
+- [x] NVIDIA Nemotron 3 Nano Omni Powers Multimodal Agent Reasoning in a Single Efficient Open Model (2026-05-15)
+- [x] Automating GPU Kernel Translation with AI Agents: cuTile Python to cuTile.jl (2026-05-16)
+- [x] How the NVIDIA Vera Rubin Platform is Solving Agentic AI's Scale-Up Problem (2026-05-16)
+- [x] Optimize Supply Chain Decision Systems Using NVIDIA cuOpt Agent Skills (2026-05-16)
+- [x] Building the AI Grid with NVIDIA: Orchestrating Intelligence Everywhere (2026-05-17)
+- [x] How to Build In-Vehicle AI Agents with NVIDIA: From Cloud to Car (2026-05-17)
+- [x] Speed Up Unreal Engine NNE Inference with NVIDIA TensorRT for RTX Runtime (2026-05-17)
+- [x] NVIDIA Dynamo 1.0 Powers Multi-Node Inference at Production Scale (2026-05-18)
+- [x] Streaming Tokens and Tools: Multi-Turn Agentic Harness Support in NVIDIA Dynamo (2026-05-18)
+- [x] New Software and Model Optimizations Supercharge NVIDIA DGX Spark (2026-05-18)
+- [x] Achieving Peak System and Workload Efficiency on NVIDIA GB200 NVL72 with Slurm Block Scheduling (2026-05-20)
+- [x] Scaling Power-Efficient AI Factories with NVIDIA Spectrum-X Ethernet Photonics (2026-05-23)
+- [x] Automating and Optimizing Financial Signal Discovery with Multi-Agent Systems (2026-05-24)
+- [x] Synthesize Realistic 3D Medical Images at Scale to Ship Pre-Trained Models (2026-05-24)
+- [x] Unlock Exascale Performance on NVIDIA GB200 NVL72 with Slurm Topology-Aware Job Scheduling (2026-05-24)
+- [x] Building Token-Metered AI Services on Telco AI Factories (2026-05-25)
+- [x] Add a Specialized Deep Research Skill to Agent Harnesses (2026-05-26)
+- [x] Mastering Agentic Techniques: AI Agent Evaluation (2026-05-26)
+- [x] Scaling Token Factory Revenue and AI Efficiency by Maximizing Performance per Watt (2026-05-27)
+- [x] Build Next-Gen Physical AI with Edge-First LLMs for Autonomous Vehicles and Robotics (2026-05-28)
+- [x] Develop High-Performance GPU Kernels in C++ with NVIDIA CUDA Tile (2026-05-28)
+- [x] Extract More Kernel Performance with NVIDIA CompileIQ Auto-Tuning (2026-05-28)
+- [x] Get Real-Time Visibility into GPU Usage Across Kubernetes Clusters (2026-05-28)
+- [x] Introducing NVIDIA BlueField-4-Powered CMX Context Memory Storage Platform (2026-05-28)
+- [x] NVIDIA CUDA 13.3 Enhances GPU Development with Tile Programming in C++ (2026-05-28)
+- [x] NVIDIA-Verified Agent Skills Provide Capability Governance for AI Agents (2026-05-28)
 
-## nvidia.cn/networking/ethernet-switching 产品基线（2026-05-14）
+## nvidia.cn/networking/ethernet-switching 产品基线（2026-05-28）
 
+> 2026-05-28 检查：页面仍返回 403，通过 WebSearch 间接确认产品线无新增型号变更，维持原基线。
 > 2026-05-14 检查：页面返回 403，通过 WebSearch 间接确认产品线无新增型号变更，维持原基线。
 
 当前产品线状态，后续对比此基线检测变更：
