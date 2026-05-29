@@ -48,6 +48,7 @@
 - [x] NVIDIA Partners With AI Infrastructure Ecosystem — Reference Design for Giga-Scale AI Factories (2026-05-25)
 - [x] NVIDIA, Ineffable Intelligence Team Up for Reinforcement Learning Infrastructure (2026-05-25)
 - [x] NVIDIA and Oracle to Accelerate Enterprise AI and Data Processing (2026-05-25)
+- [x] AI Factories: The New Infrastructure of Intelligence (2026-05-28)
 
 ## developer.nvidia.com 已追踪
 
