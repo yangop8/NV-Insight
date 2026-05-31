@@ -1,4 +1,4 @@
-# 已追踪文章索引（截至2026年5月28日）
+# 已追踪文章索引（截至2026年5月31日）
 
 此文件用于记录已分析过的文章和产品页面状态，避免每日洞察重复覆盖。每日新增分析时更新此列表。
 
@@ -98,9 +98,11 @@
 - [x] Introducing NVIDIA BlueField-4-Powered CMX Context Memory Storage Platform (2026-05-28)
 - [x] NVIDIA CUDA 13.3 Enhances GPU Development with Tile Programming in C++ (2026-05-28)
 - [x] NVIDIA-Verified Agent Skills Provide Capability Governance for AI Agents (2026-05-28)
+- [x] NVIDIA Dynamo Snapshot: Fast Startup for Inference Workloads on Kubernetes (2026-05-27)
 
-## nvidia.cn/networking/ethernet-switching 产品基线（2026-05-28）
+## nvidia.cn/networking/ethernet-switching 产品基线（2026-05-31）
 
+> 2026-05-31 检查：页面仍返回 403，通过 WebSearch 间接确认产品线无新增型号变更，维持原基线（Spectrum-6 SN6810/SN6800 状态同 05-28）。
 > 2026-05-28 检查：页面仍返回 403，通过 WebSearch 间接确认产品线无新增型号变更，维持原基线。
 > 2026-05-14 检查：页面返回 403，通过 WebSearch 间接确认产品线无新增型号变更，维持原基线。
 
