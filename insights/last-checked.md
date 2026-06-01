@@ -1,4 +1,4 @@
-# 已追踪文章索引（截至2026年5月31日）
+# 已追踪文章索引（截至2026年6月1日）
 
 此文件用于记录已分析过的文章和产品页面状态，避免每日洞察重复覆盖。每日新增分析时更新此列表。
 
@@ -49,6 +49,11 @@
 - [x] NVIDIA, Ineffable Intelligence Team Up for Reinforcement Learning Infrastructure (2026-05-25)
 - [x] NVIDIA and Oracle to Accelerate Enterprise AI and Data Processing (2026-05-25)
 - [x] AI Factories: The New Infrastructure of Intelligence (2026-05-28)
+- [x] NVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AI / RTX Spark Superchip (2026-06-01)
+- [x] Faster Local AI Agents on RTX PCs and DGX Spark (2026-06-01)
+- [x] NVIDIA DGX Station for Windows — Trillion-Parameter Deskside AI Supercomputer (2026-06-01)
+- [x] NVIDIA DGX Spark and DGX Station Power the Latest Open-Source and Frontier Models From the Desktop (2026-06-01)
+- [x] How Cosmos 3 Helps Physical AI Think Before It Acts / NVIDIA Launches Cosmos 3 (2026-06-01)
 
 ## developer.nvidia.com 已追踪
 
@@ -99,9 +104,11 @@
 - [x] NVIDIA CUDA 13.3 Enhances GPU Development with Tile Programming in C++ (2026-05-28)
 - [x] NVIDIA-Verified Agent Skills Provide Capability Governance for AI Agents (2026-05-28)
 - [x] NVIDIA Dynamo Snapshot: Fast Startup for Inference Workloads on Kubernetes (2026-05-27)
+- [x] Develop Physical AI Reasoning, World, and Action Models with NVIDIA Cosmos 3 (2026-06-01)
 
 ## nvidia.cn/networking/ethernet-switching 产品基线（2026-05-31）
 
+> 2026-06-01 检查：页面仍返回 403，通过 WebSearch 间接确认 Spectrum-6（SN6810 102.4T / SN6800 409.6T）产品线无新增型号变更，维持原基线。
 > 2026-05-31 检查：页面仍返回 403，通过 WebSearch 间接确认产品线无新增型号变更，维持原基线（Spectrum-6 SN6810/SN6800 状态同 05-28）。
 > 2026-05-28 检查：页面仍返回 403，通过 WebSearch 间接确认产品线无新增型号变更，维持原基线。
 > 2026-05-14 检查：页面返回 403，通过 WebSearch 间接确认产品线无新增型号变更，维持原基线。
