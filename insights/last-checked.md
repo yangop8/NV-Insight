@@ -1,4 +1,4 @@
-# 已追踪文章索引（截至2026年6月3日）
+# 已追踪文章索引（截至2026年6月4日）
 
 此文件用于记录已分析过的文章和产品页面状态，避免每日洞察重复覆盖。每日新增分析时更新此列表。
 
@@ -55,6 +55,9 @@
 - [x] NVIDIA DGX Spark and DGX Station Power the Latest Open-Source and Frontier Models From the Desktop (2026-06-01)
 - [x] How Cosmos 3 Helps Physical AI Think Before It Acts / NVIDIA Launches Cosmos 3 (2026-06-01)
 - [x] NVIDIA Jetson Brings Agentic AI to the Physical World (2026-06-01)
+- [x] Industrial Software Leaders Build Secure, Autonomous AI Engineers With NVIDIA NemoClaw (2026-06-01)
+- [x] NVIDIA Enables the Next Era of Physical AI Research With Agent Skills for Autonomous Vehicles, Robotics and Vision AI (CVPR) (2026-06-03)
+- [x] NVIDIA Research Unlocks Advanced Grasping, Smarter Autonomous Driving and Agent Training at Scale (CVPR) (2026-06-03)
 
 ## developer.nvidia.com 已追踪
 
@@ -113,6 +116,7 @@
 
 ## nvidia.cn/networking/ethernet-switching 产品基线（2026-05-31）
 
+> 2026-06-04 检查：页面仍返回 403，通过 WebSearch 间接确认 Spectrum-6（SN6810 102.4T / SN6800 409.6T，CES 2026 发布）产品线无新增型号变更，维持原基线（状态同 06-03）。
 > 2026-06-03 检查：页面仍返回 403，通过 WebSearch 间接确认 Spectrum-6（SN6810 102.4T / SN6800 409.6T）产品线无新增型号变更，维持原基线（状态同 06-02）。
 > 2026-06-02 检查：页面仍返回 403，WebSearch 暂时性过载（529）未取得新结果，结合 06-01 已确认基线无变更，维持原基线（Spectrum-6 SN6810/SN6800 状态同 06-01）。
 > 2026-06-01 检查：页面仍返回 403，通过 WebSearch 间接确认 Spectrum-6（SN6810 102.4T / SN6800 409.6T）产品线无新增型号变更，维持原基线。
