@@ -59,6 +59,8 @@
 - [x] NVIDIA Enables the Next Era of Physical AI Research With Agent Skills for Autonomous Vehicles, Robotics and Vision AI (CVPR) (2026-06-03)
 - [x] NVIDIA Research Unlocks Advanced Grasping, Smarter Autonomous Driving and Agent Training at Scale (CVPR) (2026-06-03)
 - [x] Forecast: Fun Ahead — 18 Games Join in June to Stream on GeForce NOW / Neverness to Everness (2026-06-04)
+- [x] NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure (2026-06-07)
+- [x] Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI (2026-06-08)
 
 ## developer.nvidia.com 已追踪
 
@@ -118,9 +120,11 @@
 - [x] Build Personal AI Agents on Windows PCs with New Tools from Microsoft and NVIDIA (2026-06-04)
 - [x] What's New for Game Developers in NVIDIA RTX: DLSS 4.5 for UE5 and Multilingual AI Characters (2026-06-04)
 - [x] Advancing AI Infrastructure for Agentic AI with NVIDIA DOCA In-Silicon Security (2026-06-01，06-08 回溯补录)
+- [x] Train Models Faster with JAX and MaxText Using NVFP4 on NVIDIA Blackwell (2026-06-08)
 
 ## nvidia.cn/networking/ethernet-switching 产品基线（2026-05-31）
 
+> 2026-06-09 检查：页面仍返回 403，通过 WebSearch 间接确认 Spectrum-6（SN6810 102.4T / SN6800 409.6T，2026 下半年上市）产品线无新增型号变更，维持原基线（状态同 06-08）。当日比对 blogs.nvidia.com 与 developer.nvidia.com，发现净新增 3 篇：「NVIDIA and LG Group Build an AI Factory」（06-07）、「Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI」（06-08）、「Train Models Faster with JAX and MaxText Using NVFP4 on NVIDIA Blackwell」（06-08），按 URL 去重规则入索引，生成 2026-06-09.md（净新增 3 篇）。
 > 2026-06-08 检查：页面仍返回 403，通过 WebSearch 间接确认 Spectrum-6（SN6810 102.4T / SN6800 409.6T，CES 2026 发布）产品线无新增型号变更，维持原基线（状态同 06-07）。当日 blogs.nvidia.com 与 developer.nvidia.com 在 06-05~06-08 区间无新发布文章；回溯比对发现一篇 06-01 发布但此前未入索引的净新增文章「Advancing AI Infrastructure for Agentic AI with NVIDIA DOCA In-Silicon Security」，按 URL 去重规则补录，生成 2026-06-08.md（净新增 1 篇）。
 > 2026-06-07 检查：页面仍返回 403，通过 WebSearch 间接确认 Spectrum-6（SN6810 102.4T / SN6800 409.6T，CES 2026 发布）产品线无新增型号变更，维持原基线（状态同 06-06）。当日 blogs.nvidia.com 与 developer.nvidia.com 均无净新增文章（最新为 06-04 已追踪内容，06-05~06-07 周末无新发布），不生成每日快讯文件。
 > 2026-06-06 检查：页面仍返回 403，通过 WebSearch 间接确认 Spectrum-6（SN6810 102.4T / SN6800 409.6T，CES 2026 发布）产品线无新增型号变更，维持原基线（状态同 06-05）。
