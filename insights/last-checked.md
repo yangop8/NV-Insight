@@ -1,4 +1,4 @@
-# 已追踪文章索引（截至2026年6月8日）
+# 已追踪文章索引（截至2026年6月9日）
 
 此文件用于记录已分析过的文章和产品页面状态，避免每日洞察重复覆盖。每日新增分析时更新此列表。
 
@@ -121,9 +121,11 @@
 - [x] What's New for Game Developers in NVIDIA RTX: DLSS 4.5 for UE5 and Multilingual AI Characters (2026-06-04)
 - [x] Advancing AI Infrastructure for Agentic AI with NVIDIA DOCA In-Silicon Security (2026-06-01，06-08 回溯补录)
 - [x] Train Models Faster with JAX and MaxText Using NVFP4 on NVIDIA Blackwell (2026-06-08)
+- [x] Model Quantization: Turn FP8 Checkpoints into High-Performance Inference Engines with NVIDIA TensorRT (2026-06-09)
 
 ## nvidia.cn/networking/ethernet-switching 产品基线（2026-05-31）
 
+> 2026-06-10 检查：页面仍返回 403，通过 WebSearch 间接确认 Spectrum-6（SN6810 102.4T / SN6800 409.6T，2026 下半年上市）产品线无新增型号变更，维持原基线（状态同 06-09）。当日比对 blogs.nvidia.com 与 developer.nvidia.com：blogs.nvidia.com 侧最新为 06-07/06-08 已追踪内容（newsroom 无 06-09/06-10 更新）；developer.nvidia.com 侧发现净新增 1 篇「Model Quantization: Turn FP8 Checkpoints into High-Performance Inference Engines with NVIDIA TensorRT」（06-09 发布），按 URL 去重规则入索引，生成 2026-06-10.md（净新增 1 篇）。检索中出现的「Inside NVIDIA Nemotron 3」（2025-12）、「Open Source AI Tool Upgrades…RTX PCs」（2026-01）、「Introducing Nemotron 3 Super」（2026-03）均为旧文非当日净新增，不予补录。
 > 2026-06-09 检查：页面仍返回 403，通过 WebSearch 间接确认 Spectrum-6（SN6810 102.4T / SN6800 409.6T，2026 下半年上市）产品线无新增型号变更，维持原基线（状态同 06-08）。当日比对 blogs.nvidia.com 与 developer.nvidia.com，发现净新增 3 篇：「NVIDIA and LG Group Build an AI Factory」（06-07）、「Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI」（06-08）、「Train Models Faster with JAX and MaxText Using NVFP4 on NVIDIA Blackwell」（06-08），按 URL 去重规则入索引，生成 2026-06-09.md（净新增 3 篇）。
 > 2026-06-08 检查：页面仍返回 403，通过 WebSearch 间接确认 Spectrum-6（SN6810 102.4T / SN6800 409.6T，CES 2026 发布）产品线无新增型号变更，维持原基线（状态同 06-07）。当日 blogs.nvidia.com 与 developer.nvidia.com 在 06-05~06-08 区间无新发布文章；回溯比对发现一篇 06-01 发布但此前未入索引的净新增文章「Advancing AI Infrastructure for Agentic AI with NVIDIA DOCA In-Silicon Security」，按 URL 去重规则补录，生成 2026-06-08.md（净新增 1 篇）。
 > 2026-06-07 检查：页面仍返回 403，通过 WebSearch 间接确认 Spectrum-6（SN6810 102.4T / SN6800 409.6T，CES 2026 发布）产品线无新增型号变更，维持原基线（状态同 06-06）。当日 blogs.nvidia.com 与 developer.nvidia.com 均无净新增文章（最新为 06-04 已追踪内容，06-05~06-07 周末无新发布），不生成每日快讯文件。
