@@ -1,4 +1,4 @@
-# 已追踪文章索引（截至2026年6月11日）
+# 已追踪文章索引（截至2026年6月14日）
 
 此文件用于记录已分析过的文章和产品页面状态，避免每日洞察重复覆盖。每日新增分析时更新此列表。
 
@@ -63,6 +63,7 @@
 - [x] Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI (2026-06-08)
 - [x] GFN Thursday: GeForce NOW Summer Sale (2026-06-11)
 - [x] NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark (AA-AgentPerf) (2026-06-12，06-13 补录)
+- [x] NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure (2026-06-07，06-14 回溯补录)
 
 ## developer.nvidia.com 已追踪
 
@@ -131,6 +132,7 @@
 
 ## nvidia.cn/networking/ethernet-switching 产品基线（2026-05-31）
 
+> 2026-06-14 检查：nvidia.cn 网络交换页面仍返回 403，经 WebSearch 间接确认 Spectrum-6（SN6810 102.4T / SN6800 409.6T，2026 下半年上市）产品线无新增型号变更，维持原基线（状态同 06-13）。06-13~06-14 为周末，blogs.nvidia.com 与 developer.nvidia.com 均无当日新发布文章；回溯比对发现一篇 06-07 发布、此前未入索引的净新增文章「NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure」（属访韩系列，索引此前仅收录 LG Group 06-07 与 Seoul Purpose 06-08），按 URL 去重规则补录分析（覆盖斗山机器人 Agentic Robot OS、斗山山猫世界模型、斗山能源 SMR/燃气轮机/氢燃料电池接入 DSX 供电、CCL 材料）。检索中出现的「Boost GPU Memory Performance with CUDA MPS」「Delivering Flexible Performance with NVIDIA MGX」等均为已判定旧文/常青文，不予补录。生成 2026-06-14.md（净新增 1 篇）。
 > 2026-06-13 检查：页面仍返回 403，通过 WebSearch 间接确认 Spectrum-6（SN6810 102.4T / SN6800 409.6T，2026 下半年上市）产品线无新增型号变更，维持原基线（状态同 06-12）。当日比对三数据源：blogs.nvidia.com 与 developer.nvidia.com 各发现 1 篇 06-12 发布、此前未入索引的净新增文章，主题同为 Artificial Analysis 全新发布的 AA-AgentPerf 智能体 AI 基础设施基准——blogs 侧「NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark」、developer 侧「NVIDIA Achieves Leading Agentic Coding Performance on First Agentic AI Benchmark」，按 URL 去重补录分析。检索中出现的「As AI Grows More Complex, Model Builders Rely on NVIDIA」（引用 GPT-5.2/12 月、GPT-5.3 Codex/2 月，为早前旧文）不予补录。生成 2026-06-13.md（净新增 2 篇）。
 > 2026-06-12 检查：页面仍返回 403，通过 WebSearch 间接确认 Spectrum-6（SN6810 102.4T / SN6800 409.6T，2026 下半年上市）产品线无新增型号变更，维持原基线（状态同 06-11）。当日比对三数据源：developer.nvidia.com 侧发现净新增 1 篇「Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark」（COMPUTEX 2026 DGX Spark 6 月软件更新，含 Qwen3.6-35B/NVFP4/MTP 2.6x 提速、NVIDIA Sync 多节点集群、NemoClaw 简化安装），按 URL 去重补录；blogs.nvidia.com 侧净新增 1 篇消费类「GFN Thursday: GeForce NOW Summer Sale」（06-11），按 URL 去重入索引（观点判定无三方向参考价值）。检索中出现的「Boost GPU Memory Performance with No Code Changes Using NVIDIA CUDA MPS」为 6 月更新的常青旧文（非净新增）、「Delivering Flexible Performance for Future-Ready Data Centers with NVIDIA MGX」（2026-01-08 旧文）均不予补录。生成 2026-06-12.md（净新增 2 篇，其中 1 篇为消费类附录）。
 > 2026-06-11 检查：页面仍返回 403，通过 WebSearch 间接确认 Spectrum-6（SN6810 102.4T / SN6800 409.6T，2026 下半年上市）产品线无新增型号变更，维持原基线（状态同 06-10）。当日比对 blogs.nvidia.com 与 developer.nvidia.com：blogs.nvidia.com 侧 06-09~06-11 无净新增（Jetson JetPack 7.2、DOCA Argus/Vault、6 月 GeForce NOW 等均为已追踪 COMPUTEX 内容）；developer.nvidia.com 侧发现净新增 2 篇「Run DiffusionGemma on NVIDIA for Developer-Ready, High-Throughput Text Generation」（06-10 发布）与「Delivering Lifecycle Control for AI Infrastructure at Scale with NVIDIA DGX Spark Enterprise Manageability」（06-09 发布，此前未入索引，按 URL 去重规则补录），生成 2026-06-11.md（净新增 2 篇）。
