@@ -1,4 +1,4 @@
-# 已追踪文章索引（截至2026年6月16日）
+# 已追踪文章索引（截至2026年6月17日）
 
 此文件用于记录已分析过的文章和产品页面状态，避免每日洞察重复覆盖。每日新增分析时更新此列表。
 
@@ -130,9 +130,12 @@
 - [x] Run Local AI Agents with Faster Models and Multi-Node Clustering on NVIDIA DGX Spark (2026-06-11，COMPUTEX 6 月软件更新)
 - [x] NVIDIA Achieves Leading Agentic Coding Performance on First Agentic AI Benchmark (AA-AgentPerf) (2026-06-12，06-13 补录)
 - [x] Fine-Tuning Biological Foundation Models with LoRA Using NVIDIA BioNeMo Recipes (2026-06-15，06-16 回溯补录)
+- [x] Deploy Long-Context Reasoning and Agentic Workflows with MiniMax M3 on NVIDIA Accelerated Infrastructure (2026-06-11，06-17 回溯补录)
+- [x] Build On-Device AI Companions with the NVIDIA ACE Game Agent SDK and Unreal Engine 5 Plugins (2026-06-16，06-17 补录，Unreal Fest 2026)
 
 ## nvidia.cn/networking/ethernet-switching 产品基线（2026-05-31）
 
+> 2026-06-17 检查：nvidia.cn 网络交换页面仍返回 403，经 WebSearch 间接确认 Spectrum-6（SN6810 102.4T / SN6800 409.6T，2026 下半年上市）产品线无新增型号变更，维持原基线（状态同 06-16）。当日比对三数据源：blogs.nvidia.com 当日无净新增博文（VivaTech 6-17 仅为现场座谈环节，无对应文章发布，最新博文仍为已追踪内容）；developer.nvidia.com 回溯比对发现两篇此前检查窗口未捕获的净新增文章——「Deploy Long-Context Reasoning and Agentic Workflows with MiniMax M3 on NVIDIA Accelerated Infrastructure」（06-11 发布，428B MoE、1M 上下文、MSA 稀疏注意力）与「Build On-Device AI Companions with the NVIDIA ACE Game Agent SDK and Unreal Engine 5 Plugins」（06-16 发布，Unreal Fest 2026，端侧 ASR/SLM/TTS、C/C++ Agent/Chat/RAG 框架），按 URL 去重规则补录分析。检索中出现的「What's New for Game Developers in NVIDIA RTX: DLSS 4.5 for UE5」（06-04 已追踪）、「Simplify and Scale AI-Powered MetaHuman Deployment」「Bring NVIDIA ACE AI Characters to Games」等均为已判定旧文/常青文，不予补录。生成 2026-06-17.md（净新增 2 篇）。
 > 2026-06-16 检查：nvidia.cn 网络交换页面仍返回 403，经 WebSearch 间接确认 Spectrum-6（SN6810 102.4T / SN6800 409.6T，2026 下半年上市）产品线无新增型号变更，维持原基线（状态同 06-15）。当日比对三数据源：blogs.nvidia.com 自 06-12 起无净新增（最新仍为 06-11/06-12 已追踪内容，06-13~06-15 无新增、06-16 当日无新发布）；developer.nvidia.com 回溯比对发现一篇 06-15 发布、06-15 检查窗口未捕获的净新增文章「Fine-Tuning Biological Foundation Models with LoRA Using NVIDIA BioNeMo Recipes」（ESM2-3B/Evo2-1B 等十亿级生物基础模型的 LoRA 参数高效微调，单张 RTX 6000 Blackwell 工作站 GPU、约 1% 可训练参数），按 URL 去重规则补录分析。检索中出现的「Boost GPU Memory Performance with NVIDIA CUDA MPS」「Delivering Flexible Performance with NVIDIA MGX」「Inside NVIDIA Nemotron 3」「Open Source AI Tool Upgrades…RTX PCs」等均为已判定旧文/常青文，不予补录。生成 2026-06-16.md（净新增 1 篇）。
 > 2026-06-15 检查：页面仍返回 403，经 WebSearch 间接确认 Spectrum-6（SN6810 102.4T / SN6800 409.6T，2026 下半年上市，CES 2026 发布）产品线无新增型号变更，维持原基线（状态同 06-14）。当日比对三数据源：06-13/06-14 为周末，blogs.nvidia.com 与 developer.nvidia.com 均无周末新发布文章；06-15（周一）检索 newsroom/blogs/developer 三源，最新仍为 06-11/06-12 已追踪内容（newsroom 最新 06-11），无 06-13~06-15 净新增文章入索引。检索中出现的「Transform Video Into Instantly Searchable, Actionable Intelligence with AI Agents and Skills」经 NVIDIA Developer Forums 核实发布日期为 2026-05-13，属系统化追踪窗口（每日快讯自 05-13 起）之前的旧文/常青 VSS 文章，仅在通用检索中浮现而非当日净新增，不予补录。「Boost GPU Memory Performance with NVIDIA CUDA MPS」「Delivering Flexible Performance with NVIDIA MGX」「As AI Grows More Complex…」等均为已判定旧文/常青文，不予补录。当日无净新增文章，按 CLAUDE.md 规则不生成每日快讯文件。
 > 2026-06-14 检查：nvidia.cn 网络交换页面仍返回 403，经 WebSearch 间接确认 Spectrum-6（SN6810 102.4T / SN6800 409.6T，2026 下半年上市）产品线无新增型号变更，维持原基线（状态同 06-13）。06-13~06-14 为周末，blogs.nvidia.com 与 developer.nvidia.com 均无当日新发布文章；回溯比对发现一篇 06-07 发布、此前未入索引的净新增文章「NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure」（属访韩系列，索引此前仅收录 LG Group 06-07 与 Seoul Purpose 06-08），按 URL 去重规则补录分析（覆盖斗山机器人 Agentic Robot OS、斗山山猫世界模型、斗山能源 SMR/燃气轮机/氢燃料电池接入 DSX 供电、CCL 材料）。检索中出现的「Boost GPU Memory Performance with CUDA MPS」「Delivering Flexible Performance with NVIDIA MGX」等均为已判定旧文/常青文，不予补录。生成 2026-06-14.md（净新增 1 篇）。
