@@ -1,4 +1,4 @@
-# 已追踪文章索引（截至2026年6月20日）
+# 已追踪文章索引（截至2026年6月23日）
 
 此文件用于记录已分析过的文章和产品页面状态，避免每日洞察重复覆盖。每日新增分析时更新此列表。
 
@@ -67,6 +67,7 @@
 - [x] HPE AI Factory With NVIDIA Expands for the Era of Agents (2026-06-16，06-18 补录，HPE Discover Las Vegas)
 - [x] Fastest, Largest, Strongest: NVIDIA Blackwell Sweeps MLPerf Training 6.0 (2026-06-16，06-18 补录)
 - [x] GFN Thursday: '007 First Light' on GeForce NOW (2026-06-18，06-19 补录，消费类，Citizen Sleeper 6-18~6-25 限免)
+- [x] From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries (2026-06-22，06-23 补录，ISC 2026，DAQIRI/ALCHEMI NIM/cuPhoton)
 
 ## developer.nvidia.com 已追踪
 
@@ -137,9 +138,13 @@
 - [x] Build On-Device AI Companions with the NVIDIA ACE Game Agent SDK and Unreal Engine 5 Plugins (2026-06-16，06-17 补录，Unreal Fest 2026)
 - [x] One-Click Multi-Tenant Security with NVIDIA Quantum InfiniBand (2026-06-11，06-18 回溯补录，UFM 意图驱动安全配置)
 - [x] NVIDIA Blackwell Tops MLPerf Training 6.0 with Industry-Leading Scale and Performance (2026-06-16，06-18 补录)
+- [x] CCCL Runtime: A Modern C++ Runtime for CUDA (2026-06-22，06-23 补录，ISC 2026，CCCL 3.2 现代 C++ 运行时)
+- [x] Enable Real-Time AI for High-Speed Data Acquisition with DAQIRI (2026-06-22，06-23 补录，ISC 2026，Holoscan 零拷贝 GPU 实时采集)
+- [x] Inside NVIDIA Halos for Robotics: A Full-Stack Functional Safety System for Physical AI (2026-06-22，06-23 补录，ISC 2026，IGX Thor/Halos OS，ISO 26262/IEC 61508 功能安全)
 
 ## nvidia.cn/networking/ethernet-switching 产品基线（2026-05-31）
 
+> 2026-06-23 检查：nvidia.cn 网络交换页面仍返回 403，经 WebSearch 间接确认 Spectrum-6（SN6810 102.4T / SN6800 409.6T，2026 下半年上市）产品线无新增型号或规格变更，维持原基线（状态同 06-22）。当日比对三数据源，回溯发现 06-22 ISC High Performance 2026（汉堡）批次共 4 篇净新增文章（06-22 检查窗口未捕获，按 URL 去重规则补录）：①blogs.nvidia.com「From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries」（ISC 科学软件，DAQIRI 库 + ALCHEMI NIM 微服务 + cuPhoton 参考代码即将发布，Lila 材料筛选 50x、cuPhoton FITS 天文数据 14,900x、CERN A-GHOST 暗物质罕见信号检测）；②developer.nvidia.com「CCCL Runtime: A Modern C++ Runtime for CUDA」（CCCL 3.2，<cuda/stream>/<cuda/buffer>/<cuda/launch> 现代 C++ 抽象替代裸 Runtime/Driver API）；③developer.nvidia.com「Enable Real-Time AI for High-Speed Data Acquisition with DAQIRI」（Holoscan 平台零拷贝直流 GPU 显存，TensorRT/nvCOMP，网络包自动批为 GPU 张量，CERN A-GHOST FPGA→GPU 集群实时分析 HL-LHC）；④developer.nvidia.com「Inside NVIDIA Halos for Robotics: A Full-Stack Functional Safety System for Physical AI」（Halos 自动驾驶安全扩展至机器人，IGX Thor + Holoscan Sensor Bridge + Halos OS/Core/Outside-In 蓝图，ISO 26262/IEC 61508/ISO 13849，TÜV SÜD/Rheinland 评估，Agility Digit 人形机器人采用）。其余 ISC 内容（Vera Rubin Delivers World-Class Supercomputers for Science、欧洲 35 台 AI HPC 超算、JUPITER、洛斯阿拉莫斯 Mission/Vision/Veritas 等）均发布于 nvidianews.nvidia.com Newsroom（非 blogs/developer/nvidia.cn 三数据源之一），不予补录。生成 2026-06-23.md（净新增 4 篇，全部面向系统软件/嵌入式软件方向有参考价值）。
 > 2026-06-22 检查：nvidia.cn 网络交换页面仍返回 403，经 WebSearch 间接确认 Spectrum-6（SN6810 102.4T/128×800G、SN6800 409.6T/512×800G，CPO+液冷，2026 下半年上市）产品线无新增型号或规格变更，维持原基线（状态同 06-20）。06-21 为周日（周末），blogs.nvidia.com 与 developer.nvidia.com 无周末新发布；06-22（周一）比对三数据源，无 06-19~06-22 净新增技术博文。检索中浮现的两篇疑似「06-21」博文经核实均非净新增：①blogs.nvidia.com「New NVIDIA Nemotron 3 Super Delivers 5x Higher Throughput for Agentic AI」实为 2026-03-11 发布（SiliconANGLE /2026/03/11/、HPCwire 佐证；120B/12B 激活、混合 MoE、1M 上下文），属系统化追踪窗口（05-13 起）之前的旧文，不予补录；②blogs.nvidia.com「Sync and Stream: GeForce NOW Connects to Members' Game Libraries Across Devices」实为 2026-06-18 发布（Worthplaying 2026/6/18 佐证，同批 Aphelion/Super Meat Boy 3D 等本周新游），即已于 06-18/06-19 追踪的 GFN 批次，不予补录。developer.nvidia.com 检索仅浮现已追踪或常青/旧文（Building the AI Grid、Run Local AI Agents on DGX Spark、Scaling AI Factories with CPO、AI-RAN、North–South Networks 等），无净新增。Newsroom 侧 06-21「SK Telecom 千兆瓦级 AI Cloud（DSX 平台，2027 上线）」属此前访韩系列旧闻、且非三数据源（blogs/developer/nvidia.cn）之一，不予补录。当日无净新增文章，按 CLAUDE.md 规则不生成每日快讯文件。
 > 2026-06-21 检查：周日（周末），blogs.nvidia.com 与 developer.nvidia.com 均无周末新发布；nvidia.cn 网络交换页面仍返回 403，Spectrum-6 产品线维持原基线（状态同 06-20）。当日无净新增文章，按 CLAUDE.md 规则不生成每日快讯文件（详见 06-22 综合核实记录）。
 > 2026-06-20 检查：nvidia.cn 网络交换页面仍返回 403，经 WebSearch 间接确认 Spectrum-6（SN6810 102.4T / SN6800 409.6T，2026 下半年上市）产品线无新增型号变更，维持原基线（状态同 06-19）。06-20 为周六（周末），blogs.nvidia.com 与 developer.nvidia.com 均无周末新发布；比对三数据源：blogs.nvidia.com 最新仍为 06-18「GFN Thursday: '007 First Light'」已追踪内容（检索浮现的「7 款本周新游」Aphelion/Citizen Sleeper 等即该 06-18 批次，newsroom 最新仍为 06-11），无 06-19/06-20 净新增博文；developer.nvidia.com 检索仅浮现已追踪或旧文（Nemotron 3 Ultra 06-04、TensorRT/CUDA 早前常青文等），无 06-17~06-20 净新增技术博文（索引已覆盖至 06-16 发布内容）。当日无净新增文章，按 CLAUDE.md 规则不生成每日快讯文件。
