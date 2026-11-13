@@ -570,3 +570,9 @@
 - [x] Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI (2026-11-02，blogs.nvidia.com，cities-physical-agentic-ai-applications；URL 不在索引·回溯补录·仅登记+简评不深析；Metropolis 视觉智能体+Cosmos/Nemotron/Omniverse 数字孪生+主权 AI 工厂共享算力·与网络/嵌入式/系统软件三方向关联较弱)
 
 > dedup：11-12 窗口按 URL 比对确认上述 2 条不在索引。11-10~11-11 KubeCon NA 2026 批次（agent-substrate/start-and-restore-gpu-workloads-with-nvidia-snapshot/manage-kubernetes-clusters-nvidia-kubernetes-engine/running-av-reasoning-models/make-a-robot-arm-feel-weightless-holoscan-5/open-source-openshell-infrastructure/nvidia-at-kubecon-2026）及 11-05~11-06 批次（flux-3-image-klein/reshard-collective/dsx-os/co-design/telco-6g/vera-cpu/memory-full-stack-codesign/developers-simulation-frontier-ai-agents/ai-semiconductor-fabs）均按 URL 去重跳过。nvidia.cn 以太网交换产品页（Spectrum-6 SN6810/SN6800、Spectrum-X Photonics）返回 403/未见型号或规格变更，维持原基线。
+
+## 2026-11-13 检查（净新增 1 篇·纯消费类，去重后）
+
+- [x] A New Dawn in the Cloud: 'Warhammer 40,000: Dawn of War IV' Is Coming to GeForce NOW (2026-11-12，blogs.nvidia.com，geforce-now-thursday-warhammer-dawn-of-war-iv-coming；URL 不在索引确认净新增·纯消费类游戏上新·登记不深析；观点：没有面向网络/嵌入式/系统软件的参考价值)
+
+> dedup：11-13 窗口按 URL 比对确认上述 1 条不在索引。developer.nvidia.com 最新 validating-gpu-platforms-with-runtime-ai-inventory-via-the-nvidia-dsx-ai-factory（11-11，已于 11-12 追踪）及更早 running-av-reasoning-models/manage-kubernetes-clusters/start-and-restore-gpu-workloads/agent-substrate/make-a-robot-arm-feel-weightless-holoscan-5/flux-3-image-klein/reshard-collective/dsx-os/co-design 等批次按 URL 去重跳过。blogs.nvidia.com telco-open-source-tools-research-6g-networks/vera-cpu-highest-throughput-fastest-agents/cities-physical-agentic-ai-applications 等均已追踪。nvidia.cn 以太网交换产品页（Spectrum-6 SN6810-LD/SN6800-LD CPO、SN6600、SN6200-LD；Spectrum-4 SN5600/SN5610/SN5400）返回正常但型号/规格与既有基线一致，未见变更，维持原基线（状态同 11-12）。
